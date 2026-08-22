@@ -50,7 +50,8 @@ This keeps the app lightweight (no external vector database like Pinecone or Chr
 
 ### Chatting normally (no document loaded)
 
-![Screenshot 1](screenshots/screenshot-1.png)
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/793c8c2c-b745-4487-b254-84e15f984a92" />
+
 
 ### PDF uploaded and indexed — asking about its content
 
