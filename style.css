@@ -1,0 +1,37 @@
+st.markdown("""
+<style>
+
+/* Force main container spacing */
+div[data-testid="stAppViewContainer"] > .main {
+    padding-top: 2rem !important;
+    padding-bottom: 6rem !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+}
+
+/* Chat input spacing fix */
+div[data-testid="stChatInput"] {
+    margin-bottom: 20px !important;
+}
+
+/* Chat message styling */
+.stChatMessage {
+    border-radius: 12px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Sidebar full height */
+section[data-testid="stSidebar"] > div {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+/* Push bottom content */
+.sidebar-bottom {
+    margin-top: auto;
+}
+
+</style>
+""", unsafe_allow_html=True)
