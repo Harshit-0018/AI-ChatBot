@@ -55,11 +55,13 @@ This keeps the app lightweight (no external vector database like Pinecone or Chr
 
 ### PDF uploaded and indexed — asking about its content
 
-![Screenshot 2](screenshots/screenshot-2.png)
+<img width="1918" height="946" alt="image" src="https://github.com/user-attachments/assets/0798db37-db02-4e91-ac4c-3c3db263f229" />
+
 
 ### Answer generated as a structured table, grounded in the uploaded PDF
 
-![Screenshot 3](screenshots/screenshot-3.png)
+<img width="1918" height="938" alt="image" src="https://github.com/user-attachments/assets/d5371611-6d76-4a0f-b2d0-16be6aa816bd" />
+
 
 ### Follow-up question outside the document's scope
 
