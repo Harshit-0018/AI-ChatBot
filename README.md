@@ -67,7 +67,8 @@ This keeps the app lightweight (no external vector database like Pinecone or Chr
 
 The model correctly notes the excerpts don't cover the topic, then answers from general knowledge instead of making something up.
 
-![Screenshot 4](screenshots/screenshot-4.png)
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/a6e770a8-157b-469a-9cc3-1265a92256be" />
+
 
 ---
 
