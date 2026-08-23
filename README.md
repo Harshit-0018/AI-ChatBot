@@ -2,11 +2,6 @@
 
 An interactive AI chatbot built using Streamlit and powered by Groq's ultra-fast LLMs. Now supports **PDF-based Retrieval-Augmented Generation (RAG)** — upload a PDF and ask questions grounded in its content, alongside general conversation.
 
----
-
-## Live Demo
-
-https://simple-chatbot-hwmg7tbp4vxr5mhfhjmfbk.streamlit.app/
 
 ---
 
