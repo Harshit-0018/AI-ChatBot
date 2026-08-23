@@ -24,6 +24,7 @@ An interactive AI chatbot built using Streamlit and powered by Groq's ultra-fast
 - **Backend:** Python
 - **LLM API:** Groq (`openai/gpt-oss-20b`)
 - **Embeddings:** `sentence-transformers` (`all-MiniLM-L6-v2`)
+- **Similarity Search:** `numpy` (cosine similarity, in-memory)
 - **PDF Parsing:** `pypdf`
 - **Deployment:** Streamlit Cloud
 
